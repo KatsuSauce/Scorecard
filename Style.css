@@ -1,1 +1,8 @@
-
+<style>
+table tr:nth-child(even) {
+    background-color: pink;
+    font-family: 'Times New Roman', serif;
+  }
+ td.bright   {
+     background-color: #d2fffd;
+</style>
