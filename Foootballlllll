@@ -10,25 +10,25 @@
 <table>
 <caption> The Pookies vs The Dookies</caption>
     <tr>
-        <td> 17</td>
+        <td class="bright"> 17</td>
         <td colspan="2">Pookies</td>
-        <td>Time: 17:05</td>
+        <td class="bright">Time: 17:05</td>
         <td colspan="2">Dookies</td>
-         <td> 21</td>
+         <td class="bright"> 21</td>
     </tr>
    <tr>
-        <td> 10</td>
+        <td class="bright"> 10</td>
         <td colspan="2">Pookies</td>
-        <td>2nd Q</td>
+        <td class="bright">2nd Q</td>
         <td colspan="2">Dookies</td>
-         <td> 14</td>
+         <td class="bright"> 14</td>
     </tr>
     <tr>    
-        <td> 1</td>
+        <td class="bright"> 1</td>
         <td colspan="2">Pookies</td>
-        <td>2nd Q</td>
+        <td class="bright">2nd Q</td>
         <td colspan="2">Dookies</td>
-         <td> 4</td>
+         <td class="bright"> 4</td>
     </tr>
 </table>
 </html>
