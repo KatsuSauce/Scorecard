@@ -1,1 +1,34 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>BasketBALLLLLL</title>
+  <!--CSS File-->
+    <link rel="stylesheet" type="text/css" href="Style.css"/>
+  </head>
+<table>
+<caption> The Pookies vs The Dookies</caption>
+    <tr>
+        <td> 19</td>
+        <td colspan="2">Pookies</td>
+        <td>Time: 17:05</td>
+        <td colspan="2">Dookies</td>
+         <td> 24</td>
+    </tr>
+   <tr>
+        <td> 13</td>
+        <td colspan="2">Pookies</td>
+        <td>2nd Q</td>
+        <td colspan="2">Dookies</td>
+         <td> 11</td>
+    </tr>
+    <tr>    
+        <td> 3</td>
+        <td colspan="2">Pookies</td>
+        <td>2nd Q</td>
+        <td colspan="2">Dookies</td>
+         <td> 4</td>
+    </tr>
+</table>
+</html>
